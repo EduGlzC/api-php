@@ -2,7 +2,7 @@
 API with PHP with two endpoints
 
 Installation. 
-Just copy all the files in your domain. The index.php works only to put var in environment. The index.php in API folder works like router for services. 
+Just copy all the files in your domain. The index.php works only to put var in environment. The index.php in API folder works like main switcher and the htaccess wokrs like a router. So, it is important copy the htaccess (Apache) 
 
 
 The API has the following endpoints: 
