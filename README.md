@@ -1,6 +1,10 @@
 # api-php
 API with PHP with two endpoints
 
+Installation. 
+Just copy all the files in your domain. The index.php works only to put var in environment. The index.php in API folder works like router for services. 
+
+
 The API has the following endpoints: 
 
 1. Greeting
@@ -25,11 +29,6 @@ Additional notes:
 You can edit the list of languages in /data/greetings.json
 You can edit the default value for search of photos in /index.php 
 
-
-   
-   
-   
-   You cavalues for Languages could be 
    
    
 
